@@ -13,7 +13,7 @@ const siteMetadata = {
   email: 'board@dcsco.org',
   github: '',
   twitter: '',
-  facebook: 'https://www.facebook.com/DCSCO.org/', 
+  facebook: 'https://www.facebook.com/DCSCO.org/',
   youtube: '',
   linkedin: '',
   instagram: 'https://www.instagram.com/dcsco_callejoncubs/',
