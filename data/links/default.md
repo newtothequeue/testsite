@@ -1,26 +1,21 @@
 ---
 name:
 avatar: /static/images/volunteer_generic.png
-occupation: 
-company: 
-email: 
-twitter: 
-linkedin: 
-github: 
+occupation:
+company:
+email:
+twitter:
+linkedin:
+github:
 ---
-
-# Cubs Store
-
-The Don Callejon Cub Store at http://yoursite.com 
 
 # Cafeteria Menu
 
-Don Callejon Cafeteria Menu at http://yoursite.com 
+[Don Callejon Cafeteria Menu](https://scusdnutrition.net/?page=menus)
 
 # School Supply Lists
 
 School supply lists for most grades are posted on the Don Callejon School website under the "important links" section. Here are the direct links:
-
 
 - [Kinder](http://callejon-scusd-ca.schoolloop.com/file/1500178972004/1345278145234/8230481467573700805.pdf)
 - [1st](http://callejon-scusd-ca.schoolloop.com/file/1500178972004/1345278145234/6299594324495764392.pdf)

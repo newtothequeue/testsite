@@ -15,6 +15,12 @@ const projectsData = [
     imgSrc: '/static/images/project_cornerstone.png',
     href: 'https://www.ymcasv.org/ymca-project-cornerstone',
   },
+  {
+    title: 'Lunchtime Sports',
+    description: `DCSCO supports our kids physical and mental well-being through funding to Allera Sports`,
+    imgSrc: '/static/images/allera-sports.png',
+    href: 'https://allerasports.com/',
+  },
 ]
 
 export default projectsData
