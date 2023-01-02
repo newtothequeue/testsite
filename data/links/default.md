@@ -11,9 +11,14 @@ github:
 
 # Cafeteria Menu
 
-[Don Callejon Cafeteria Menu](https://scusdnutrition.net/?page=menus)
+- [Don Callejon Breakfast Menu](https://www.schoolnutritionandfitness.com/webmenus2/#/view?id=6329f920e96f1e8c5b81d956&siteCode=2713)
+- [Don Callejon Lunch Menu](https://www.schoolnutritionandfitness.com/webmenus2/#/view?id=6328cb87e96f1ef05c340f92&siteCode=2713)
 
-# School Supply Lists
+# 2022-2023 School Calendar
+
+- [Bell Schedule & School Calendar](https://docs.google.com/document/d/18r4rfacw5L7CV_kxMho0BDsuclhKIzZ9/edit)
+
+# 2022-2023 School Supply Lists
 
 School supply lists for most grades are posted on the Don Callejon School website under the "important links" section. Here are the direct links:
 
